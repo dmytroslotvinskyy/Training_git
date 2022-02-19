@@ -11,7 +11,7 @@ def newfun2ction():
 def copyfiles(original, target):
    # shutil.copyfile(original, target)
     shutil.copy2(original, target)
-    print("Hello, " + name + ". Good morning!")
+  
 
 
 newfun2ction()
