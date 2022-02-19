@@ -15,6 +15,6 @@ def copyfiles(original, target):
 
 
 newfun2ction()
-original = r'C:\Users\Ирина\Downloads\Cossacks European Wars'
-target = r'D:\new'
+original = r'***************************'
+target = r'************************'
 copyfiles(original, target)
